@@ -22,11 +22,11 @@ This Power BI project presents a comprehensive analysis of sales data, helping s
 
 dashboard.pbix: Power BI report file
 
-data/: Source files (CSV or Excel)
+data: Source files (CSV or Excel)
 
 README.md: Documentation of the project
 
-screenshots/: Visual preview of the dashboard (optional)
+screenshots: Visual preview of the dashboard
 
 
 🛠 Built With:
